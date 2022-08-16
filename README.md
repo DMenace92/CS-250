@@ -1,21 +1,14 @@
 # CS-250
 
-Module 8 Journal 
-•	Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
--	The Game room client is a single to multiplayer game that will be offered on multiple platforms windows, apple, and mobile devises. Base on the 1980s television game win, lose or draw, are client creative technology solution provided the idea and information regarding the development of this project. The type of software creative technology want designed is the game platform to be accessible on the internet.   
+Module Journal 8
 
-•	What did you do particularly well in developing this documentation?
--	Working on computers and having a great interest in the hardware components of a computer gave me an advantage in creating the developing documents. Having the experience of both owning and working on the different platforms due to my curiosity gave me the tools required for this assignment.  
-
-•	What about the process of working through a design document did you find helpful when developing the code?
--	Having the design documents provided the direction that was very help full for completing and developing the program for the client creative technology solutions. Creating a program with out well written documentation and directions will lead to a product that side tract to a product that was not agreed upon by the client.  
-
-
-•	If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
--	The part I would revise on the document is the storage management. Having completed the document, I believe I could have entered more information on how the program will exist on the root tree on the machine. 
-
-•	How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
--	Working on a user-based program it is important to implement a platform that allows the program to be accessible in different locations the user might be if possible. Having the game posted on the internet it is important for the user to have access to a network. 
-
-•	How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
--	The approaches I have made on developing software is going over the clients’ transcripts on the requirements of the program and key features. Creating flowcharts creating a structure of the functions and methods required for the application functionality. After creating the flow chart creating Pseudocode of the program will benefit the logic forming of the program
+•	How do I interpret user needs and implement them into a program? 
+Incorporating the needs of a program is the number one priority. Implementing agile to the project flow will benefit the progression of the program’s development. With agile the method used to fulfill the clients demands are by having the project owner set up a meeting with the client and create a transcript story with key features that will pertain to the product. 
+•	How does creating “user stories” help with this?
+Splitting and identifying different features of the program by priority ensures that the most important is completed first then working on the lower priority. As to the user stories for large project the grope can focus on one portion of the build while having a set timeline and group while having scrum meetings. For example, the assignments on modules 2-4 we worked on entering information of features for the SNHU travel site using the excel spreadsheet. Entering the features for the travel site by questioning the users and shareholders we can expand further and form better understanding during the developing phase of the project. 
+•	How do I approach developing programs? 
+Working as developer on the project we are guided and informed on the requirements and information provided by the scrum master. Working as a developer taking the information from the scrum stories questions create a flow chart along with pseudocode. 
+•	What agile processes do I hope to incorporate into my future development work?
+In the future working on personal and professional development learning and applying agile is a benefit for time management. Incorporating agile methodology for instance scrum meeting scrum stories sprints and rolling wave planning 
+•	What does it mean to be a good team member in software development?
+Working in a team developing a product the most important trait to have been being a great communicator. Working on a task individually rolling out information to the other members efficiently benefits the process of the development. Having a voice to identify issues or ideas are key features of an active member. The second trait for an ideal member of the team is resourcefulness. With the agile methodology the project may be able to shift as it is accepted by agile methodology flow having the skill of finding solutions is crucial. 
